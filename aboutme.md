@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My name in Inigo Montoya
 ---
 
 My name is Inigo Montoya. I have the following qualities:
