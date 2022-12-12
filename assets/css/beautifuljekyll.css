@@ -21,10 +21,13 @@ body {
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
+  background-repeat: no-repeat;
+  
 }
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
+  height: 1000;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -496,6 +499,7 @@ footer .footer-custom-content {
   margin: 0;
   font-weight: 300;
   margin-bottom: 0.625rem;
+
 }
 .post-preview .post-meta,
 .post-heading .post-meta {

@@ -111,7 +111,7 @@
   
 
 
-  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand navbar-brand-logo" href="http://localhost:4000/"><img alt="Inspecteur bouillabaisse Logo" src="/assets/img/banana.png"/></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand navbar-brand-logo" href="http://localhost:4000/"><img alt="Inspecteur bouillabaisse Logo" src="/assets/img/avatar.jpeg"/></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
@@ -124,7 +124,7 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="https://www.marmiton.org/recettes/recette_pate-a-crepes_12372.aspx">La meilleur recette de pâte à crèpe</a>
-                  <a class="dropdown-item" href="https://www.markdowntutorial.com/">Learn markdown</a>
+                  <a class="dropdown-item" href="/7_dragon_ball">Where to find the 7 dragon balls</a>
             </div>
           </li>
         
@@ -155,19 +155,26 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "How to make a good ceviche?", \
+          "category" : "ceviche!cooking", \
+          "url"      : "/2022", \
+          "date"     : "December 12, 2022" \
+        }, \
+       \
+        { \
           "title"    : "Sample blog post", \
-          "category" : "test", \
+          "category" : "", \
           "url"      : "/2020", \
           "date"     : "February 28, 2020" \
         }, \
        \
-        { \
-          "title"    : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020", \
-          "date"     : "February 26, 2020" \
-        }, \
        \
+        { \
+          "title"    : "Where are the 7 dragon balls ?", \
+          "category" : "page", \
+          "url"      : "/7_dragon_ball", \
+          "date"     : "January 1, 1970" \
+        }, \
        \
         { \
           "title"    : "About me", \
@@ -177,7 +184,7 @@
         }, \
        \
         { \
-          "title"    : "My website", \
+          "title"    : "El inspector Ceviche", \
           "category" : "page", \
           "url"      : "/", \
           "date"     : "January 1, 1970" \
@@ -240,28 +247,23 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <a href="#books" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;books&nbsp;(1)</a><a href="#test" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;test&nbsp;(2)</a><div id="full-tags-list"><h2 id="books" class="linked-section">
+      <a href="#ceviche!" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;ceviche!&nbsp;(1)</a><a href="#cooking" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;cooking&nbsp;(1)</a><div id="full-tags-list"><h2 id="ceviche!" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;books&nbsp;(1)
+        &nbsp;ceviche!&nbsp;(1)
     </h2>
     <div class="post-list"><div class="tag-entry">
-                <a href="/2020">Flake it till you make it</a>
+                <a href="/2022">How to make a good ceviche?</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-26T00:00:00-05:00">February 26, 2020</time>
+                    <time datetime="2022-12-12T00:00:00-05:00">December 12, 2022</time>
                 </div>
-            </div></div><h2 id="test" class="linked-section">
+            </div></div><h2 id="cooking" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;test&nbsp;(2)
+        &nbsp;cooking&nbsp;(1)
     </h2>
     <div class="post-list"><div class="tag-entry">
-                <a href="/2020">Sample blog post</a>
+                <a href="/2022">How to make a good ceviche?</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-28T00:00:00-05:00">February 28, 2020</time>
-                </div>
-            </div><div class="tag-entry">
-                <a href="/2020">Flake it till you make it</a>
-                <div class="entry-date">
-                    <time datetime="2020-02-26T00:00:00-05:00">February 26, 2020</time>
+                    <time datetime="2022-12-12T00:00:00-05:00">December 12, 2022</time>
                 </div>
             </div></div></div>
 
