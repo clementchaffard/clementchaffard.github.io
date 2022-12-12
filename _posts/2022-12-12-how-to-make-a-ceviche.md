@@ -2,8 +2,8 @@
 layout: post
 title: How to make a good ceviche?
 subtitle: Recipe from chatGPT 
-cover-img: /assets/img/ceviche.jpeg
-thumbnail-img: /assets/img/ceviche.jpeg
+cover-img: /assets/img/ceviche_cover.jpeg
+thumbnail-img: /assets/img/ceviche_cover.jpeg
 share-img: /assets/img/path.jpg
 tags: [ceviche!, cooking]
 ---

@@ -1,6 +1,6 @@
----
+/* ---
 layout: null
----
+--- */
 
 @import url("pygment_highlights.css");
 
@@ -11,8 +11,9 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Helvetica', 'Lora', serif;
   font-size: 1.125rem;
+  margin: 0px;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -21,7 +22,7 @@ body {
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   
 }
 p {
