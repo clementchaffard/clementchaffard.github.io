@@ -24,9 +24,16 @@ Une chaleur inspirante émane de la force de Martin Eden. Personne n'écoute, pe
 ### Never let me go, Kazuo Ishiguro, 2005 :
 Je n'ai pas vraiment ressenti de déclic. J'ai la senstion d'assister à une vie accélérée. Le mystère lié à leur condition particulière ne provoque pas la sensation d'injustice ou de révolte attendue. C'est peut être en ca que l'oeuvre est particulière. Les personnages se soumettent à leur condition et font l'expérience d'une vie qui est probablement très similaire de celle que nous vivons tous, simplement plus courte, mais rempli des mêmes choses. Pendant un instant, on assiste à un soubressaut de Ruth et Tommy qui tentent, sans grande révolte, d'échapper à leur condition, sans succès. Peut-être aurait-il fallu plus de folie, plus de violence pour combattre leur destin. Et dans un sens, je pense encore que cela illustre pultôt justement nos vie, ou du moins la mienne. 
 
-### Siddartha, Herman Hess, 1920:
+### D'autres vies que la mienne, Emmanuel Carrère, 2009: **11**
+Le livre raconte d'abord l'histoire d'un tsunami et le deuil lié à la perte d'un enfant. Dans une seconde partie on suit un jeune couple qui traverse un cancer incurable. 
+
+### Siddartha, Herman Hess, 1920: **13**
+
+En fait c'est bien plus terrible que ce dont je me souvenai. Il quitte son père en laissant dans une tristesse immense. Il devient mandiant itinérant. Il rencontre Bouddha pour qui il a une admiration immense mais il se rend compte que même cet être qui semble bien avoir trouvé la paix n'arrivera pas à l'aider à trouver sa propre paix. Il tombe ensuite amoureux d'une courtisane et fait fortune. Le temps passe et les plaisirs sensuels et matériels s'évanouissent. Kamala ne veut pas le laisser partir, elle veut fonder une famille. Mais Siddartha dans sa quête de vérité et d'illumination ne reste pas et reprend sa route. Il ne sait pas que Kamala a eu un fils de lui et qu'elle mourra quelques temps plus tard. Siddartha trouve refuge près d'une rivière où il se laissera viellir seul. Siddartha accepte son sort et donne aux passant cette impression de paix. Cette sensation de paix est troublé quand il reconnaitra son fils traverser la rivière. Son fils travers comme lui son propre voyage initiatique, seul. Siddartha aimerai lui partager son expérience, mais ce serait inutile. Il prend conscience de la douleur qu'il a causé à son père. 
+
 
 ### Le Loup des steppes, Herman Hess, 1927:
+Oppose les multitudes d'un même individu. D'un côté la spiritualité, la culture, l'intelligence et de l'autre la sensualité, le confort matériel, la famille, la communauté. 
 
 ### Narcisse et Goldmund, Herman Hess, 1939:
 
