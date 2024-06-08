@@ -9,13 +9,13 @@
 
   
 
-  <title>From RNN to Transformers</title>
+  <title>ITER</title>
 
   
   <meta name="author" content="Clement Chaffard">
   
 
-  <meta name="description" content="LLM series">
+  <meta name="description" content="Fission VS Fusion Fuel Source: Fission: Uranium which exist only in limited amount in Khazakstan, Canada, Russia and Niger. &amp;amp; Plutonium Fusion: Isotopes of hydrogene like tritium and deuterium. Deuterium is very common in nature and tritium and be obtained form bombarding lithium with neutrons. 2 Accidents: Fusion reaction is...">
 
   
 
@@ -74,15 +74,15 @@
 
   
   <meta property="og:site_name" content="Inspecteur bouillabaisse">
-  <meta property="og:title" content="From RNN to Transformers">
-  <meta property="og:description" content="LLM series">
+  <meta property="og:title" content="ITER">
+  <meta property="og:description" content="Fission VS Fusion Fuel Source: Fission: Uranium which exist only in limited amount in Khazakstan, Canada, Russia and Niger. &amp;amp; Plutonium Fusion: Isotopes of hydrogene like tritium and deuterium. Deuterium is very common in nature and tritium and be obtained form bombarding lithium with neutrons. 2 Accidents: Fusion reaction is...">
 
   
 
   
   <meta property="og:type" content="article">
   <meta property="og:article:author" content="Clement Chaffard">
-  <meta property="og:article:published_time" content="2023-07-03T00:00:00-04:00">
+  <meta property="og:article:published_time" content="2023-07-21T00:00:00-04:00">
   <meta property="og:url" content="http://localhost:4000/2023">
   <link rel="canonical" href="http://localhost:4000/2023">
   
@@ -93,8 +93,8 @@
   <meta name="twitter:site" content="@">
   <meta name="twitter:creator" content="@">
 
-  <meta property="twitter:title" content="From RNN to Transformers">
-  <meta property="twitter:description" content="LLM series">
+  <meta property="twitter:title" content="ITER">
+  <meta property="twitter:description" content="Fission VS Fusion Fuel Source: Fission: Uranium which exist only in limited amount in Khazakstan, Canada, Russia and Niger. &amp;amp; Plutonium Fusion: Isotopes of hydrogene like tritium and deuterium. Deuterium is very common in nature and tritium and be obtained form bombarding lithium with neutrons. 2 Accidents: Fusion reaction is...">
 
   
 
@@ -156,6 +156,34 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "", \
+          "category" : "", \
+          "url"      : "/2024", \
+          "date"     : "June  8, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "ITER", \
+          "category" : "", \
+          "url"      : "/2023", \
+          "date"     : "July 21, 2023" \
+        }, \
+       \
+        { \
+          "title"    : "Sujets de philo", \
+          "category" : "", \
+          "url"      : "/2023", \
+          "date"     : "July 10, 2023" \
+        }, \
+       \
+        { \
+          "title"    : "Faut il être heureux?", \
+          "category" : "Ils disent des trucs", \
+          "url"      : "/2023", \
+          "date"     : "July 10, 2023" \
+        }, \
+       \
+        { \
           "title"    : "From RNN to Transformers", \
           "category" : "DL", \
           "url"      : "/2023", \
@@ -163,7 +191,7 @@
         }, \
        \
         { \
-          "title"    : "Determinism VS Free will", \
+          "title"    : "Lex Fridman Podcasts", \
           "category" : "Lex Discussions", \
           "url"      : "/2023", \
           "date"     : "July  3, 2023" \
@@ -174,13 +202,6 @@
           "category" : "reading", \
           "url"      : "/2023", \
           "date"     : "April  6, 2023" \
-        }, \
-       \
-        { \
-          "title"    : "How to make a good ceviche?", \
-          "category" : "ceviche!cooking", \
-          "url"      : "/2022", \
-          "date"     : "December 12, 2022" \
         }, \
        \
        \
@@ -209,6 +230,13 @@
           "title"    : "Tag Index", \
           "category" : "page", \
           "url"      : "/tags", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "El inspector Ceviche", \
+          "category" : "page", \
+          "url"      : "/page2/", \
           "date"     : "January 1, 1970" \
         } \
        \
@@ -242,12 +270,7 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="page-heading">
-          <h1>From RNN to Transformers</h1>
-          
-            
-              <hr class="small">
-              <span class="page-subheading">LLM series</span>
-            
+          <h1>ITER</h1>
           
 
           
@@ -267,13 +290,21 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <p>Why the need for attention mechanism in Recurrent Neural Networks?
-Recurrent Neural Networks are sequential therefore are very computationaly heavy. They are also prone to gradient vanishing/exploding problems. Activation functions such as ReLu is usually used to cope with this issue. LSTM (Long Short Term Memory) introduces… A lot of information escape some of the processing and allow information to be retained for longer sequencies. Still above the order of 100 of words become problematic. Also LSTM are even slower. LSTM are also sequentialy (futur state depends on past state) and can’t take advantage of nowadays GPUs that need parallel computation.</p>
+      <h3 id="fission-vs-fusion">Fission VS Fusion</h3>
 
-<h3 id="transformers">Transformers</h3>
-<p>The input data can be put in parallel. All the words are passed simultaneously and words embedding are computed simultaneously.
-Transformers also need a positional encoder (know the position of the word in the sentence)
-Attention: What part of the input should I focus on?</p>
+<ul>
+  <li>
+    <ol>
+      <li>Fuel Source:
+Fission: Uranium which exist only in limited amount in Khazakstan, Canada, Russia and Niger. &amp; Plutonium
+Fusion: Isotopes of hydrogene like tritium and deuterium. Deuterium is very common in nature and tritium and be obtained form bombarding lithium with neutrons.</li>
+    </ol>
+  </li>
+  <li>2 Accidents:
+Fusion reaction is self-limiting, if there is a problem the plasma will cool down and the reaction will stop.</li>
+  <li>3 Significantly less nuclear waste:
+Helium is the main biproduct of fusion and is not radioactive</li>
+</ul>
 
 
       
@@ -333,7 +364,7 @@ Attention: What part of the input should I focus on?</p>
         Clement Chaffard
         &nbsp;&bull;&nbsp;
       
-      2023
+      2024
 
       
         &nbsp;&bull;&nbsp;

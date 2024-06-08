@@ -10,10 +10,56 @@
     
     
       <item>
+        <title></title>
+        <description>
+          
+          Frieren, beyond the journey’s end, 2024 :     todo
+
+
+        </description>
+        <pubDate>Sat, 08 Jun 2024 17:29:48 -0400</pubDate>
+        <link>http://localhost:4000/2024</link>
+        <guid isPermaLink="true">http://localhost:4000/2024</guid>
+      </item>
+    
+      <item>
+        <title>ITER</title>
+        <description>
+          
+          Fission VS Fusion Fuel Source: Fission: Uranium which exist only in limited amount in Khazakstan, Canada, Russia and Niger. &amp;amp; Plutonium Fusion: Isotopes of hydrogene like tritium and deuterium. Deuterium is very common in nature and tritium and be obtained form bombarding lithium with neutrons. 2 Accidents: Fusion reaction is...
+        </description>
+        <pubDate>Fri, 21 Jul 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023</link>
+        <guid isPermaLink="true">http://localhost:4000/2023</guid>
+      </item>
+    
+      <item>
+        <title>Sujets de philo</title>
+        <description>
+          
+          Les sujets les plus traités en philosophie: Épistémologie : la nature de la connaissance, les limites de la compréhension humaine, la relation entre la perception et la réalité, la justification de nos croyances. Métaphysique : la nature de l’existence, la réalité ultime, l’ontologie, l’existence de Dieu, le libre arbitre et...
+        </description>
+        <pubDate>Mon, 10 Jul 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023</link>
+        <guid isPermaLink="true">http://localhost:4000/2023</guid>
+      </item>
+    
+      <item>
+        <title>Faut il être heureux?</title>
+        <description>
+          
+          Pour la recherche du bonheur: Epicure: Le bonheur est le but utime de la vie. La recherche du plaisir et la fuite de la douleur sont essentielles à l’atteinte du bonheur. Il préconise des plaisirs simples et long termes plutôt que les désirs excessifs Spinoza La recherche du bonheur passe...
+        </description>
+        <pubDate>Mon, 10 Jul 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023</link>
+        <guid isPermaLink="true">http://localhost:4000/2023</guid>
+      </item>
+    
+      <item>
         <title>From RNN to Transformers</title>
         <description>
           LLM series - 
-          Why the need for attention mechanism in Recurrent Neural Networks? Recurrent Neural Networks are sequential therefore are very computationaly heavy. They are also prone to gradient vanishing/exploding problems. Activation functions such as ReLu is usually used to cope with this issue. LSTM (Long Short Term Memory) introduces… A lot of...
+          What is a Neural Network: It is a mathematical abstraction that aims to mimic a biological brain. It is a type of artificial intelligence and can be used to learn from data and perform tasks such as classification, image recognition, regression… A neural network consists of a interconnected nodes organised...
         </description>
         <pubDate>Mon, 03 Jul 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023</link>
@@ -21,10 +67,14 @@
       </item>
     
       <item>
-        <title>Determinism VS Free will</title>
+        <title>Lex Fridman Podcasts</title>
         <description>
           
-          
+          A voir:
+Joscha Bach,  Jim keller 1 and 2, Chris latner, Stephen Wolfram (1), Francois Chollet.
+
+Sam Harris: Free-will, consciousness
+
 
         </description>
         <pubDate>Mon, 03 Jul 2023 00:00:00 -0400</pubDate>
@@ -41,17 +91,6 @@
         <pubDate>Thu, 06 Apr 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023</link>
         <guid isPermaLink="true">http://localhost:4000/2023</guid>
-      </item>
-    
-      <item>
-        <title>How to make a good ceviche?</title>
-        <description>
-          Recipe from chatGPT - 
-          To make a good ceviche, you will need fresh raw fish or seafood, citrus juice, and seasonings. First, choose your fish or seafood and make sure it is very fresh. Next, cut it into small pieces and marinate it in the citrus juice for at least 30 minutes. This will...
-        </description>
-        <pubDate>Mon, 12 Dec 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2022</link>
-        <guid isPermaLink="true">http://localhost:4000/2022</guid>
       </item>
     
   </channel>
