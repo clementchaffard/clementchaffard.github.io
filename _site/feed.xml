@@ -10,15 +10,15 @@
     
     
       <item>
-        <title></title>
+        <title>Series</title>
         <description>
-          
+          Critiques de séries - 
           Frieren, beyond the journey’s end, 2024 :     todo
 
-hello
+Test
 
         </description>
-        <pubDate>Sat, 08 Jun 2024 17:32:09 -0400</pubDate>
+        <pubDate>Sat, 08 Jun 2024 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2024</link>
         <guid isPermaLink="true">http://localhost:4000/2024</guid>
       </item>
@@ -26,7 +26,7 @@ hello
       <item>
         <title>ITER</title>
         <description>
-          
+          subtitle - 
           Fission VS Fusion Fuel Source: Fission: Uranium which exist only in limited amount in Khazakstan, Canada, Russia and Niger. &amp;amp; Plutonium Fusion: Isotopes of hydrogene like tritium and deuterium. Deuterium is very common in nature and tritium and be obtained form bombarding lithium with neutrons. 2 Accidents: Fusion reaction is...
         </description>
         <pubDate>Fri, 21 Jul 2023 00:00:00 -0400</pubDate>
@@ -37,7 +37,7 @@ hello
       <item>
         <title>Sujets de philo</title>
         <description>
-          
+          subtitle - 
           Les sujets les plus traités en philosophie: Épistémologie : la nature de la connaissance, les limites de la compréhension humaine, la relation entre la perception et la réalité, la justification de nos croyances. Métaphysique : la nature de l’existence, la réalité ultime, l’ontologie, l’existence de Dieu, le libre arbitre et...
         </description>
         <pubDate>Mon, 10 Jul 2023 00:00:00 -0400</pubDate>
@@ -48,7 +48,7 @@ hello
       <item>
         <title>Faut il être heureux?</title>
         <description>
-          
+          sub - 
           Pour la recherche du bonheur: Epicure: Le bonheur est le but utime de la vie. La recherche du plaisir et la fuite de la douleur sont essentielles à l’atteinte du bonheur. Il préconise des plaisirs simples et long termes plutôt que les désirs excessifs Spinoza La recherche du bonheur passe...
         </description>
         <pubDate>Mon, 10 Jul 2023 00:00:00 -0400</pubDate>
@@ -70,7 +70,7 @@ hello
       <item>
         <title>Lex Fridman Podcasts</title>
         <description>
-          
+          subtitle - 
           A voir:
 Joscha Bach,  Jim keller 1 and 2, Chris latner, Stephen Wolfram (1), Francois Chollet.
 
