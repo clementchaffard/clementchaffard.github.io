@@ -10,13 +10,24 @@
     
     
       <item>
-        <title>Reflexions</title>
+        <title>From RNN to Transformers</title>
         <description>
-          Où est ce que j&apos;ai encore mis mon porte monnaie? - 
+          LLM series - 
+          Why the need for attention mechanism in Recurrent Neural Networks? Recurrent Neural Networks are sequential therefore are very computationaly heavy. They are also prone to gradient vanishing/exploding problems. Activation functions such as ReLu is usually used to cope with this issue. LSTM (Long Short Term Memory) introduces… A lot of...
+        </description>
+        <pubDate>Mon, 03 Jul 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023</link>
+        <guid isPermaLink="true">http://localhost:4000/2023</guid>
+      </item>
+    
+      <item>
+        <title>Determinism VS Free will</title>
+        <description>
+          
           
 
         </description>
-        <pubDate>Fri, 07 Apr 2023 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 03 Jul 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023</link>
         <guid isPermaLink="true">http://localhost:4000/2023</guid>
       </item>

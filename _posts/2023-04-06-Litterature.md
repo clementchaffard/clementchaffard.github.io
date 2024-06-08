@@ -21,7 +21,7 @@ J'ai lu ce livre sans vraiment savoir pourquoi. On développe une certaine famil
 ### Martin Eden, Jack London, 1909 : **19**
 Une chaleur inspirante émane de la force de Martin Eden. Personne n'écoute, personne ne prête vraiment attention. Ils ne voient pas en lui sa valeur. Puis la reconnaissance arrive enfin comme une boule de neige alors qu'il a déjà abandonné, il a arrêté d'écrire. On est décu, accablé par la superficialité de Ruth et de sa famille. Martin a désiré Ruth plus que tout. Il s'est donné à elle, il a brûler d'effort pour elle. Dans sa conquête de Ruth, Martin devient formidable. Martin a toujours été formidable, pourquoi est-il incapable de retourner à sa vie d'avant? L'oportunité lui est présentée par ce personnage féminin attirant et charismatique. Pourtant rien ne semble pouvoir soigner sa désillusion. Martin était probablement vraiment amoureux, de Ruth et de la classe sociale qu'elle représente. Martin a souffert, a souffert profondément pour s'élever à leur rang. Martin était beau, il était admiré, admirable et aimée. Après avoir goûter le fruit interdit, Martin est incapable de retourner vers le paradis qu'il a quitté.
 
-### Never let me go, Kazuo Ishiguro, 2005 :
+### Never let me go, Kazuo Ishiguro, 2005 : **13**
 Je n'ai pas vraiment ressenti de déclic. J'ai la senstion d'assister à une vie accélérée. Le mystère lié à leur condition particulière ne provoque pas la sensation d'injustice ou de révolte attendue. C'est peut être en ca que l'oeuvre est particulière. Les personnages se soumettent à leur condition et font l'expérience d'une vie qui est probablement très similaire de celle que nous vivons tous, simplement plus courte, mais rempli des mêmes choses. Pendant un instant, on assiste à un soubressaut de Ruth et Tommy qui tentent, sans grande révolte, d'échapper à leur condition, sans succès. Peut-être aurait-il fallu plus de folie, plus de violence pour combattre leur destin. Et dans un sens, je pense encore que cela illustre pultôt justement nos vie, ou du moins la mienne. 
 
 ### D'autres vies que la mienne, Emmanuel Carrère, 2009: **11**
@@ -34,6 +34,8 @@ En fait c'est bien plus terrible que ce dont je me souvenai. Il quitte son père
 
 ### Le Loup des steppes, Herman Hess, 1927:
 Oppose les multitudes d'un même individu. D'un côté la spiritualité, la culture, l'intelligence et de l'autre la sensualité, le confort matériel, la famille, la communauté. 
+
+### La place, Annie Ernaux, 1983: **10**
 
 ### Narcisse et Goldmund, Herman Hess, 1939:
 
